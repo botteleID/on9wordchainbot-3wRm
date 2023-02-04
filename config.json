@@ -1,0 +1,12 @@
+{
+    "TOKEN": "5813076277:AAGYLzz-O32lFH7ugp8CnAvfBTJgT99-g4k",
+    "ON9BOT_TOKEN": "5813076277:AAGYLzz-O32lFH7ugp8CnAvfBTJgT99-g4k",
+    "DB_URI": "postgresql://postgres:GRxsAacVb3LiqrWNFFig@containers-us-west-124.railway.app:7566/railway",
+    "PROVIDER_TOKEN": "",
+    "OWNER_ID": 5957349333,
+    "ADMIN_GROUP_ID": -1001805758980,
+    "OFFICIAL_GROUP_ID": -1001805758980,
+    "WORD_ADDITION_CHANNEL_ID": -1001689667698,
+    "VIP": [],
+    "VIP_GROUP": []
+}
